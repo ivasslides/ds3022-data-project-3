@@ -1,4 +1,4 @@
-# Team Cool
+# Sentiment Analysis on Tech Moguls and their Companies on Bluesky
 
 ## Team members
 Iliana Vasslides and Claire Bassett 
