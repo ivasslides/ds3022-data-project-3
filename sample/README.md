@@ -1,4 +1,4 @@
-# Team Coco
+# Team Cool
 
 ## Team members
 Iliana Vasslides and Claire Bassett 
@@ -32,5 +32,4 @@ To perform our sentiment analysis, we used pipline from transformers. This packa
 
 ## GitHub Repository
 
-**ADD GITHUB REPO**
-(have to make it public first)
+Github Repo: https://github.com/clairembassett/bluesky-tech-sentiment/tree/main 
